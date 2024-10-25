@@ -11,9 +11,6 @@
 # ซอฟต์แวร์สำเร็จรูป LINE
 [เอกสารสำหรับการนำเสนอ](https://miro.com/welcomeonboard/VWNQN1JJV3ZLaEIwTFZCSmd5bzNMbEN5UjZIWkd6N3hLRDlmY3RwdzdZSFlkR2ZPMUtzSzRxSE52Qk1EcFgzd3wzNDU4NzY0NTk1OTgwNDE0ODM3fDI=?share_link_id=679194492267)
 
-# เอกสารสำหรับ Final Lab
-เอกสาร [1-67 Final Lab for ENGCE301 and ENGCE112](https://docs.google.com/document/d/1mx53GKYZvZbtD1sJz9AimErH38BOj_rysQsamf0O_hU/edit?usp=sharing)
-
 # สมาชิกกลุ่ม SDD1-67-08
 1. [นางสาวรัชนีกร เชื้อดี](https://github.com/lookplarcnk/) รหัส 65543206077-1 ตำแหน่ง Team Leader and SA
 2. [นายกวีวัธน์ กาญจน์สุพัฒนากุล](https://github.com/CallMeKaweewat) รหัส 65543206003-7 ตำแหน่ง Developer
