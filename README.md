@@ -2,7 +2,7 @@
 # ระบบจัดการร้านขายหนังสือออนไลน์ (Online Bookstore Management System)
 
 ## สารบัญ
-1. [Task#1-Feasibility Study Report](https://github.com/lookplarcnk/final-team08-task-engce301/tree/main/Task%231-Feasibility%20Study%20Repor)
+1. [Task#1 Feasibility Study Report](https://github.com/lookplarcnk/final-team08-task-engce301/tree/main/Task%231-Feasibility%20Study%20Repor)
 2. [Task#2 Agile - User story and Miro](https://github.com/lookplarcnk/final-team08-task-engce301/tree/main/Task%232%20Agile%20-%20User%20story%20and%20Miro)
 3. [Task#3 Project charter](https://github.com/lookplarcnk/final-team08-task-engce301/tree/main/Task%233%20Project%20charter)
 4. [Task#4 Software Requirements Specification](https://github.com/lookplarcnk/final-team08-task-engce301/tree/main/Task%234%20Software%20Requirements%20Specification)
